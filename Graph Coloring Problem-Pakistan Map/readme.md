@@ -8,6 +8,7 @@
 ## :star2: Dependencies
 <div align='center'>
 <p>Make sure you have the following dependencies installed:</p>
+
 ```bash
 pip install geopandas  
 pip install pandas  
@@ -15,6 +16,7 @@ pip install matplotlib
 pip install tabulate  
 ```
 </div>
+
 
 ## :star2: About the Project
 
