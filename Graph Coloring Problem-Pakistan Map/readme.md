@@ -11,10 +11,17 @@
 
 ```bash
 pip install geopandas  
-pip install pandas  
-pip install matplotlib
-pip install tabulate  
 ```
+```bash
+pip install pandas 
+``` 
+```bash
+pip install matplotlib
+``` 
+```bash
+pip install tabulate  
+``` 
+
 </div>
 
 
