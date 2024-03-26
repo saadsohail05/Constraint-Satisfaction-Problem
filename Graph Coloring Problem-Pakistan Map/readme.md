@@ -36,5 +36,5 @@ pip install tabulate
 <h4>Pakistan Provinces Map - Graph Coloring</h4>
 </div>
 <div align="center"> <a href=""><img src="./colormap.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="./colortbl.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="./colortbl.png" alt='image' width='400'/></a> </div>
 
